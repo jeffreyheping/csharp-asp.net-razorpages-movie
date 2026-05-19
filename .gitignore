@@ -1,0 +1,21 @@
+# .NET build outputs
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
